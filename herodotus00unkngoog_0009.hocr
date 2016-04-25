@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./herodotus00unkngoog/herodotus00unkngoog_0009.png"; bbox 0 0 2100 3409; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 952 1497 1405 1632">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 952 1497 1405 1632">
+     <span class='ocr_line' id='line_1_1' title="bbox 952 1497 1405 1632; baseline 0.013 -31"><span class='ocrx_word' id='word_1_1' title='bbox 952 1497 1405 1632; x_wconf 63' lang='lat' dir='ltr'><strong>ffiutpet&#39;z</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 489 1820 1839 1938">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 489 1820 1839 1938">
+     <span class='ocr_line' id='line_1_2' title="bbox 489 1820 1839 1938; baseline 0.013 -17"><span class='ocrx_word' id='word_1_2' title='bbox 489 1820 826 1925; x_wconf 59' lang='lat' dir='ltr'><strong>&lt;abrech</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 901 1829 1083 1929; x_wconf 73' lang='lat' dir='ltr'><strong>auh</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1161 1827 1442 1933; x_wconf 62' lang='lat' dir='ltr'>§Datin</span> <span class='ocrx_word' id='word_1_5' title='bbox 1519 1830 1839 1938; x_wconf 56' lang='lat' dir='ltr'><strong>&amp;exta</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
